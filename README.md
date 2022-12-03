@@ -1,6 +1,6 @@
 # Active-Learning-IA
 
-##Dependecies
+## Dependecies
 1. Modal and sckit learn -> pip install modAL scikit-learn matplotlib -qqq  # matplotlib is optional
 2. Rubrix framework -> pip install "rubrix[server]==0.18.0"
 3. Install docker desktop
