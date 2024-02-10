@@ -1,4 +1,5 @@
-# Active-Learning-IA
+# Spam Detection on YouTube Comment Section
+The aim of this project is to create a machine learning model based on Active Learning to identify and filter out spam in YouTube comments. 
 
 ## Dependecies
 1. Modal and sckit learn -> pip install modAL scikit-learn matplotlib -qqq  # matplotlib is optional
